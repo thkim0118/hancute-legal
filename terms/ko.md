@@ -10,8 +10,6 @@ lang: ko
 
 본 이용약관(이하 "약관")은 김태형(이하 "개발자")이 제공하는 한컷에(HanCutE, 이하 "앱") 서비스의 이용 조건을 규정합니다.
 
-[English Version](/hancute-legal/terms/en)
-
 ---
 
 ## 1. 서비스 개요

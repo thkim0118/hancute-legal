@@ -10,8 +10,6 @@ lang: en
 
 These Terms of Service ("Terms") govern your use of the HanCutE (한컷에) application ("App") provided by Taehyung Kim ("Developer").
 
-[한국어 버전](/hancute-legal/terms/ko)
-
 ---
 
 ## 1. Service Overview

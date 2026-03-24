@@ -10,8 +10,6 @@ lang: en
 
 HanCutE (한컷에, hereinafter "the App") values and protects users' personal information. This Privacy Policy describes what information the App collects, how it is used, and what rights users have regarding their data.
 
-[한국어 버전](/hancute-legal/privacy/ko)
-
 ---
 
 ## 1. Purpose of Processing Personal Information
