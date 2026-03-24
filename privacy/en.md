@@ -153,6 +153,7 @@ For inquiries, complaints, or remedies regarding personal information processing
 |------|--------|
 | Name | Taehyung Kim |
 | Position | Representative (Individual Developer) |
+| Location | Republic of Korea |
 | Contact | choir0118@gmail.com |
 
 For reporting privacy violations or seeking consultation (Korean agencies):
@@ -161,28 +162,53 @@ For reporting privacy violations or seeking consultation (Korean agencies):
 - Supreme Prosecutors' Office Cyber Investigation: [spo.go.kr](https://www.spo.go.kr) / 1301
 - National Police Agency Cyber Bureau: [police.go.kr](https://www.police.go.kr) / 182
 
-## 12. Changes to This Policy
+## 12. Data Breach Response
+
+In the event of a personal data breach, we will notify affected users and relevant authorities without undue delay in accordance with applicable law (Korean PIPA Article 34, GDPR Articles 33-34). The notification will include the types of data affected, the circumstances of the breach, measures taken to mitigate harm, and contact information for further inquiries.
+
+## 13. Changes to This Policy
 
 This Privacy Policy may be updated due to changes in law, policy, or services. Changes will be announced via in-app notices or this page.
 
-- **Current version**: 1.0
+- **Current version**: 1.1
 - **Effective date**: March 24, 2026
 
-## 13. Children's Privacy
+## 14. Children's Privacy
 
 This service is not directed at children under the age of 14 (under Korean Personal Information Protection Act) or 13 (under US COPPA). We do not knowingly collect personal information from children. If we become aware that personal information has been collected from a child, we will delete it promptly.
 
-## 14. Information for EEA Users (GDPR)
+## 15. California Residents (CCPA/CPRA)
+
+The App does not sell or share users' personal information. California residents may exercise the same rights described in Section 8 above under the California Consumer Privacy Act (CCPA/CPRA).
+
+## 16. Information for EEA Users (GDPR)
 
 If you are located in the European Economic Area (EEA), the following additional information applies:
 
-**Legal Basis for Processing:**
-- Legitimate interest: crash reporting, app analytics (Article 6(1)(f) GDPR)
-- Consent: personalized advertising via ATT/ad settings (Article 6(1)(a) GDPR)
-- Contract performance: inquiry handling (Article 6(1)(b) GDPR)
+**Data Controller:**
 
-**Your Additional Rights under GDPR:**
-- Right to data portability (Article 20)
-- Right to lodge a complaint with your local supervisory authority
+| Item | Detail |
+|------|--------|
+| Name | Taehyung Kim |
+| Location | Republic of Korea |
+| Contact | choir0118@gmail.com |
+
+**Legal Basis for Processing:**
+- **Legitimate interest**: Crash reporting and app analytics (Article 6(1)(f) GDPR). We have determined that our legitimate interest in improving app stability and user experience outweighs any potential impact on users' rights and freedoms.
+- **Consent**: Personalized advertising via ATT or device ad settings (Article 6(1)(a) GDPR)
+- **Contract performance**: Inquiry handling (Article 6(1)(b) GDPR)
+
+**Your Rights under GDPR:**
+1. **Right of access** (Article 15): Request a copy of your personal data being processed
+2. **Right to rectification** (Article 16): Request correction of inaccurate personal data
+3. **Right to erasure** (Article 17): Request deletion of your personal data
+4. **Right to restriction of processing** (Article 18): Request restriction of processing in certain circumstances
+5. **Right to data portability** (Article 20): Receive your data in a structured, commonly used, machine-readable format (JSON)
+6. **Right to object** (Article 21): Object to processing based on legitimate interest. Upon objection, we will cease the relevant processing unless we demonstrate compelling legitimate grounds.
+7. **Rights related to automated decision-making** (Article 22): The App does not engage in automated decision-making, including profiling.
+
+To exercise any of these rights, contact us at choir0118@gmail.com.
+
+**Right to lodge a complaint:** EEA users have the right to lodge a complaint with their local data protection supervisory authority.
 
 **International Transfers:** Data is transferred to the United States. Google LLC participates in the EU-US Data Privacy Framework. All transfers are encrypted via HTTPS/TLS.

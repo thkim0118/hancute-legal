@@ -40,7 +40,7 @@ The App is intended for users aged 14 or older (under Korean Personal Informatio
 
 ### App Intellectual Property
 - Intellectual property rights to the App itself, including design, logo, code, and layout structures, belong to the Developer.
-- Users may only use the App for personal, non-commercial purposes.
+- Users may use the App for personal purposes. Redistribution, reverse engineering, or commercial reproduction of the App itself is prohibited.
 
 ## 4. Prohibited Activities
 
@@ -68,6 +68,10 @@ Users must not:
 - The Developer may add, modify, or discontinue App features to improve the service.
 - Significant changes will be communicated through in-app notices.
 
+### Service Restriction and Termination
+- The Developer may restrict or terminate a user's access to the App after prior notice if the user violates the prohibited activities (Section 4) or applicable laws. In urgent cases (legal obligations, serious service disruption, etc.), access may be restricted immediately without prior notice.
+- Users may terminate their use of the service at any time by deleting the App.
+
 ## 7. Disclaimer
 
 ### Service Provision
@@ -81,22 +85,29 @@ Users must not:
 ### Third-Party Services
 - Advertising content within the App is provided by Google AdMob. Responsibility for such content lies with the advertisers and Google.
 
-## 8. Limitation of Liability
+### Force Majeure
+- The Developer shall not be liable for service interruptions caused by events beyond reasonable control, including but not limited to natural disasters, war, terrorism, government actions, or telecommunications network failures.
+
+## 8. User Indemnification
+
+Users agree to indemnify and hold harmless the Developer from any damages, costs, claims, or expenses arising from the user's violation of these Terms or infringement of third-party rights (copyright, portrait rights, trademarks, etc.) through the use of the App.
+
+## 9. Limitation of Liability
 
 To the maximum extent permitted by applicable law, the Developer's liability for direct, indirect, incidental, or consequential damages arising from the use of the App is limited. This limitation does not apply to damages caused by the Developer's willful misconduct or gross negligence.
 
-## 9. Changes to Terms
+## 10. Changes to Terms
 
 - The Developer may modify these Terms within the bounds of applicable law.
 - Changes will be announced at least 7 days before the effective date via in-app notices or this page.
 - Users who do not agree to the modified Terms may discontinue use and delete the App.
 
-## 10. Governing Law and Jurisdiction
+## 11. Governing Law and Jurisdiction
 
 - These Terms shall be governed by and construed in accordance with the laws of the Republic of Korea.
 - Any disputes arising from the use of the App shall be resolved in the competent court as determined by the Korean Civil Procedure Act.
 
-## 11. Contact
+## 12. Contact
 
 For inquiries regarding these Terms, please contact:
 
@@ -104,5 +115,5 @@ For inquiries regarding these Terms, please contact:
 
 ---
 
-- **Current version**: 1.0
+- **Current version**: 1.1
 - **Effective date**: March 24, 2026
