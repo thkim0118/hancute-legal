@@ -83,12 +83,16 @@ The App outsources personal data processing to the following service providers:
 
 The App transfers personal information overseas for service provision:
 
-| Recipient | Country | Data Items | Purpose | Retention |
-|-----------|---------|------------|---------|-----------|
-| Google LLC (Firebase Analytics) | USA | App usage events, device info | App usage analysis | 14 months |
-| Google LLC (Firebase Crashlytics) | USA | Crash logs, device info | App stability | 90 days |
-| Google LLC (AdMob) | USA | Ad identifier, device info, ad interaction data | Ad serving | Per Google policy |
-| Supabase Inc. | USA | Email, inquiry content, device info, images | User inquiry handling | 1 year |
+| Recipient | Country | Data Items | Purpose | Transfer Method | Retention |
+|-----------|---------|------------|---------|----------------|-----------|
+| Google LLC (Firebase Analytics) | USA | App usage events, device info | App usage analysis | Transmission via network | 14 months |
+| Google LLC (Firebase Crashlytics) | USA | Crash logs, device info | App stability | Transmission via network | 90 days |
+| Google LLC (AdMob) | USA | Ad identifier, device info, ad interaction data | Ad serving | Transmission via network | Per Google policy |
+| Supabase Inc. | USA | Email, inquiry content, device info, images | User inquiry handling | Transmission via network | 1 year |
+
+Recipient contact information for personal data inquiries: Google LLC — https://support.google.com/policies/contact/general_privacy_form, Supabase Inc. — privacy@supabase.io
+
+Google LLC holds ISO 27001 and SOC 2 certifications and participates in the EU-US Data Privacy Framework. Supabase Inc. holds SOC 2 Type II certification.
 
 For details on each provider's data protection practices:
 
@@ -115,7 +119,9 @@ Users may exercise the following rights regarding their personal information:
 3. **Right to suspend processing**: Request suspension of personal information processing
 4. **Right to withdraw consent**: Withdraw previously given consent
 
-To exercise these rights, please contact us at the email address below. Requests will be processed without delay (within 10 business days).
+To exercise these rights, please contact us at the email address below. Requests will be processed without delay (within 10 days).
+
+We may request identification documents to verify your identity when processing rights requests.
 
 ## 9. Automatic Data Collection
 
@@ -124,7 +130,7 @@ To exercise these rights, please contact us at the email address below. Requests
 | SDK | Purpose | How to Opt Out |
 |-----|---------|---------------|
 | Firebase Analytics | App usage analysis | Disable analytics sharing in device settings |
-| Firebase Crashlytics | Crash reporting | Uninstalling the app stops collection |
+| Firebase Crashlytics | Crash reporting | No in-app opt-out is available. Uninstalling the app stops data collection. |
 | Google AdMob | Ad serving | iOS: Settings > Privacy > Tracking; Android: Settings > Google > Ads |
 
 ### Advertising Identifiers (IDFA/GAID)
@@ -148,7 +154,14 @@ For inquiries, complaints, or remedies regarding personal information processing
 | Item | Detail |
 |------|--------|
 | Name | Taehyung Kim |
-| Contact | hancute.app@gmail.com |
+| Position | Representative (Individual Developer) |
+| Contact | choir0118@gmail.com |
+
+For reporting privacy violations or seeking consultation (Korean agencies):
+- KISA Privacy Center: [privacy.kisa.or.kr](https://privacy.kisa.or.kr) / 118
+- Personal Information Dispute Mediation Committee: [kopico.go.kr](https://www.kopico.go.kr) / 1833-6972
+- Supreme Prosecutors' Office Cyber Investigation: [spo.go.kr](https://www.spo.go.kr) / 1301
+- National Police Agency Cyber Bureau: [police.go.kr](https://www.police.go.kr) / 182
 
 ## 12. Changes to This Policy
 
@@ -159,4 +172,19 @@ This Privacy Policy may be updated due to changes in law, policy, or services. C
 
 ## 13. Children's Privacy
 
-This service is not directed at children under the age of 14 (under Korean law) or 13 (under COPPA). We do not knowingly collect personal information from children. If we become aware that personal information has been collected from a child, we will delete it promptly.
+This service is not directed at children under the age of 14 (under Korean Personal Information Protection Act) or 13 (under US COPPA). We do not knowingly collect personal information from children. If we become aware that personal information has been collected from a child, we will delete it promptly.
+
+## 14. Information for EEA Users (GDPR)
+
+If you are located in the European Economic Area (EEA), the following additional information applies:
+
+**Legal Basis for Processing:**
+- Legitimate interest: crash reporting, app analytics (Article 6(1)(f) GDPR)
+- Consent: personalized advertising via ATT/ad settings (Article 6(1)(a) GDPR)
+- Contract performance: inquiry handling (Article 6(1)(b) GDPR)
+
+**Your Additional Rights under GDPR:**
+- Right to data portability (Article 20)
+- Right to lodge a complaint with your local supervisory authority
+
+**International Transfers:** Data is transferred to the United States. Google LLC participates in the EU-US Data Privacy Framework. All transfers are encrypted via HTTPS/TLS.

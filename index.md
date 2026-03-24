@@ -12,4 +12,4 @@ title: HanCutE Legal
 
 ---
 
-Contact: hancute.app@gmail.com
+Contact: choir0118@gmail.com
