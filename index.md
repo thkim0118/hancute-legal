@@ -15,6 +15,11 @@ title: HanCutE Legal
 - [이용약관 (한국어)](/hancute-legal/terms/ko)
 - [Terms of Service (English)](/hancute-legal/terms/en)
 
+## Support / 고객지원
+
+- [고객지원 (한국어)](/hancute-legal/support/ko)
+- [Support (English)](/hancute-legal/support/en)
+
 ---
 
 Contact: choir0118@gmail.com

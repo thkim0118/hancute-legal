@@ -6,7 +6,7 @@ lang: en
 
 # Terms of Service
 
-**Effective Date: March 24, 2026**
+**Effective Date: March 29, 2026**
 
 These Terms of Service ("Terms") govern your use of the HanCutE (한컷에) application ("App") provided by Taehyung Kim ("Developer").
 
@@ -22,7 +22,7 @@ The App is a mobile application that allows users to combine multiple photos int
 - Photo rotation and reordering
 - Gap, round corner, and background color settings
 - Image saving and sharing
-- Inquiry, notices, and FAQ
+- Inquiry (submission, reply viewing, follow-up conversations), notices, and FAQ
 
 ### Service Characteristics
 - All photo editing is performed on the user's device. Photos are never uploaded to our servers.
@@ -68,6 +68,10 @@ Users must not:
 - The Developer may add, modify, or discontinue App features to improve the service.
 - Significant changes will be communicated through in-app notices.
 
+### Maintenance
+- The Developer may temporarily restrict access to the App for maintenance purposes. Users will be notified via in-app notice.
+- When an urgent update is required, the App may require users to update to the latest version before continued use.
+
 ### Service Restriction and Termination
 - The Developer may restrict or terminate a user's access to the App after prior notice if the user violates the prohibited activities (Section 4) or applicable laws. In urgent cases (legal obligations, serious service disruption, etc.), access may be restricted immediately without prior notice.
 - Users may terminate their use of the service at any time by deleting the App.
@@ -94,7 +98,7 @@ Users agree to indemnify and hold harmless the Developer from any damages, costs
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, the Developer's liability for direct, indirect, incidental, or consequential damages arising from the use of the App is limited. This limitation does not apply to damages caused by the Developer's willful misconduct or gross negligence.
+To the maximum extent permitted by applicable law, the Developer's liability for direct, indirect, incidental, or consequential damages arising from the use of the App is limited. This limitation does not apply to damages caused by the Developer's willful misconduct or gross negligence. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including but not limited to mandatory consumer protection legislation.
 
 ## 10. Changes to Terms
 
@@ -106,6 +110,11 @@ To the maximum extent permitted by applicable law, the Developer's liability for
 
 - These Terms shall be governed by and construed in accordance with the laws of the Republic of Korea.
 - Any disputes arising from the use of the App shall be resolved in the competent court as determined by the Korean Civil Procedure Act.
+- For users located in the European Union, nothing in these Terms shall deprive you of the protection afforded by the mandatory provisions of the law of your country of residence.
+
+## 11-1. Severability
+
+If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 ## 12. Contact
 
@@ -115,5 +124,5 @@ For inquiries regarding these Terms, please contact:
 
 ---
 
-- **Current version**: 1.1
-- **Effective date**: March 24, 2026
+- **Current version**: 1.2
+- **Effective date**: March 29, 2026
