@@ -6,9 +6,9 @@ lang: en
 
 # Terms of Service
 
-**Effective Date: March 29, 2026**
+**Effective Date: April 8, 2026**
 
-These Terms of Service ("Terms") govern your use of the HanCutE (한컷에) application ("App") provided by Taehyung Kim ("Developer").
+These Terms of Service ("Terms") govern your use of the HanCutE (한컷에) application ("App").
 
 ---
 
@@ -36,10 +36,10 @@ The App is intended for users aged 14 or older (under Korean Personal Informatio
 
 ### User Content
 - All rights to photos used in the App and images created through the App belong to the user.
-- The Developer does not acquire any rights to user photos.
+- The Operator does not acquire any rights to user photos.
 
 ### App Intellectual Property
-- Intellectual property rights to the App itself, including design, logo, code, and layout structures, belong to the Developer.
+- Intellectual property rights to the App itself, including design, logo, code, and layout structures, belong to the Operator.
 - Users may use the App for personal purposes. Redistribution, reverse engineering, or commercial reproduction of the App itself is prohibited.
 
 ## 4. Prohibited Activities
@@ -65,44 +65,44 @@ Users must not:
 - Certain features (gap, color, round corner adjustments, watermark removal) are available for 24 hours after watching a rewarded ad.
 
 ### Service Changes
-- The Developer may add, modify, or discontinue App features to improve the service.
+- The Operator may add, modify, or discontinue App features to improve the service.
 - Significant changes will be communicated through in-app notices.
 
 ### Maintenance
-- The Developer may temporarily restrict access to the App for maintenance purposes. Users will be notified via in-app notice.
+- The Operator may temporarily restrict access to the App for maintenance purposes. Users will be notified via in-app notice.
 - When an urgent update is required, the App may require users to update to the latest version before continued use.
 
 ### Service Restriction and Termination
-- The Developer may restrict or terminate a user's access to the App after prior notice if the user violates the prohibited activities (Section 4) or applicable laws. In urgent cases (legal obligations, serious service disruption, etc.), access may be restricted immediately without prior notice.
+- The Operator may restrict or terminate a user's access to the App after prior notice if the user violates the prohibited activities (Section 4) or applicable laws. In urgent cases (legal obligations, serious service disruption, etc.), access may be restricted immediately without prior notice.
 - Users may terminate their use of the service at any time by deleting the App.
 
 ## 7. Disclaimer
 
 ### Service Provision
 - The App is provided "as-is" without warranties of fitness for a particular purpose or error-free operation.
-- The Developer is not responsible for service disruptions caused by device compatibility, operating system updates, or network conditions.
+- The Operator is not responsible for service disruptions caused by device compatibility, operating system updates, or network conditions.
 
 ### User Content
 - Users are solely responsible for the content and use of images created through the App.
-- Photo data loss cannot be recovered by the Developer due to the on-device processing nature of the App.
+- Photo data loss cannot be recovered by the Operator due to the on-device processing nature of the App.
 
 ### Third-Party Services
 - Advertising content within the App is provided by Google AdMob. Responsibility for such content lies with the advertisers and Google.
 
 ### Force Majeure
-- The Developer shall not be liable for service interruptions caused by events beyond reasonable control, including but not limited to natural disasters, war, terrorism, government actions, or telecommunications network failures.
+- The Operator shall not be liable for service interruptions caused by events beyond reasonable control, including but not limited to natural disasters, war, terrorism, government actions, or telecommunications network failures.
 
 ## 8. User Indemnification
 
-Users agree to indemnify and hold harmless the Developer from any damages, costs, claims, or expenses arising from the user's violation of these Terms or infringement of third-party rights (copyright, portrait rights, trademarks, etc.) through the use of the App.
+Users agree to indemnify and hold harmless the Operator from any damages, costs, claims, or expenses arising from the user's violation of these Terms or infringement of third-party rights (copyright, portrait rights, trademarks, etc.) through the use of the App.
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, the Developer's liability for direct, indirect, incidental, or consequential damages arising from the use of the App is limited. This limitation does not apply to damages caused by the Developer's willful misconduct or gross negligence. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including but not limited to mandatory consumer protection legislation.
+To the maximum extent permitted by applicable law, the Operator's liability for direct, indirect, incidental, or consequential damages arising from the use of the App is limited. This limitation does not apply to damages caused by the Operator's willful misconduct or gross negligence. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including but not limited to mandatory consumer protection legislation.
 
 ## 10. Changes to Terms
 
-- The Developer may modify these Terms within the bounds of applicable law.
+- The Operator may modify these Terms within the bounds of applicable law.
 - Changes will be announced at least 7 days before the effective date via in-app notices or this page.
 - Users who do not agree to the modified Terms may discontinue use and delete the App.
 
@@ -124,5 +124,5 @@ For inquiries regarding these Terms, please contact:
 
 ---
 
-- **Current version**: 1.2
-- **Effective date**: March 29, 2026
+- **Current version**: 1.3
+- **Effective date**: April 8, 2026
