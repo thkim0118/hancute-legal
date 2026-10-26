@@ -259,3 +259,5 @@ To exercise any of these rights, contact us at choir0118@gmail.com. In accordanc
 **EU consumer protection:** For users residing in the EU, nothing in this policy deprives you of the protection afforded by the mandatory provisions of the law of your country of residence.
 
 **International Transfers:** Data is transferred to the United States. Google LLC participates in the EU-US Data Privacy Framework. All transfers are encrypted via HTTPS/TLS.
+
+<!-- legal-content-sha256: 4d88df9e8e83734eeec90829afc8844d1772d5fe90d454dcac7d541659ff29b7 -->

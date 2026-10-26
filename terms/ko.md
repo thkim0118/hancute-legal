@@ -126,3 +126,5 @@ lang: ko
 
 - **현재 버전**: 1.3
 - **시행일**: 2026년 4월 8일
+
+<!-- legal-content-sha256: 6b444fb317b722e8087eadcc0cd88efd79baf06373df8443afa06a9cebadcb52 -->

@@ -126,3 +126,5 @@ For inquiries regarding these Terms, please contact:
 
 - **Current version**: 1.3
 - **Effective date**: April 8, 2026
+
+<!-- legal-content-sha256: 22d2cb0b51b5f22547c347affc02d2e7ecdb7fa6442823d12a2b00432d70650b -->

@@ -262,3 +262,5 @@ Google LLC는 ISO 27001, SOC 2 인증을 취득하고 있으며, EU-US Data Priv
 **EU 소비자 보호:** EU에 거주하는 이용자의 경우, 본 방침의 어떤 조항도 거주국의 강행 법규에 따라 부여되는 보호를 배제하지 않습니다.
 
 **국외 데이터 이전:** 개인정보는 미국으로 이전됩니다. Google LLC는 EU-US Data Privacy Framework에 참여하고 있으며, 모든 전송은 HTTPS/TLS를 통해 암호화됩니다.
+
+<!-- legal-content-sha256: 0f675a573be10138c2e75d47f2a6590fe703ea41de37286eb0c000db1aaf33b1 -->
