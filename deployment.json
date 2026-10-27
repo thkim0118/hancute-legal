@@ -1,67 +1,61 @@
 {
-  "source_revision": "9bb967f1461e135106361056a36611520aa1abdf",
+  "source_revision": "1fd2e051ea1bf57609f929c6ffe7e52a30532f2c",
   "documents": {
     "privacy/ko.md": {
-      "sha256": "0f675a573be10138c2e75d47f2a6590fe703ea41de37286eb0c000db1aaf33b1",
-      "version": "1.2",
-      "effective_date": "2026-03-29"
+      "sha256": "f38c7bf95de733b54c3d169e13cda503f36671c6dc5e98d61cc5101f7ff35fb9",
+      "version": "1.3",
+      "effective_date": "2026-10-27"
     },
     "privacy/en.md": {
-      "sha256": "4d88df9e8e83734eeec90829afc8844d1772d5fe90d454dcac7d541659ff29b7",
-      "version": "1.2",
-      "effective_date": "2026-03-29"
+      "sha256": "7524df310387f7736267c2a70adbbd518177983a22b26fca1bf7084336721540",
+      "version": "1.3",
+      "effective_date": "2026-10-27"
     },
     "terms/ko.md": {
-      "sha256": "6b444fb317b722e8087eadcc0cd88efd79baf06373df8443afa06a9cebadcb52",
-      "version": "1.3",
-      "effective_date": "2026-04-08"
+      "sha256": "60a2e1b74cb73c2da1896fac0adf20bf8e1014d06d425aa29d95c8f203f61927",
+      "version": "1.4",
+      "effective_date": "2026-10-27"
     },
     "terms/en.md": {
-      "sha256": "22d2cb0b51b5f22547c347affc02d2e7ecdb7fa6442823d12a2b00432d70650b",
-      "version": "1.3",
-      "effective_date": "2026-04-08"
+      "sha256": "79496dced766bb81ea20a0fbda83be0bc643cae45dba03d7ae26610ec4218a33",
+      "version": "1.4",
+      "effective_date": "2026-10-27"
     },
     "upcoming/1.0.9/notice/ko.md": {
-      "sha256": "02e711a4e5e6894053ab15b3e9edea817a6164f0e6ca247a964eaefba7736903",
+      "sha256": "4a193f20bed1ddab4716de6045ebcd192cbefa7e7e688969173a2750a52f2870",
       "version": "1.0.9",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     },
     "upcoming/1.0.9/notice/en.md": {
-      "sha256": "fe843a78494132bde7af3cc261d914611a14871de42695f021e5c80a62abb107",
+      "sha256": "545f649ed66d110eaae43f97c3fe6ff0d492e710c718dde52deeca31a1a45421",
       "version": "1.0.9",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     },
     "upcoming/1.0.9/privacy/ko.md": {
-      "sha256": "ea315aebda7a90d5213e7a296f918def2ed2b3010c1e67baf6be3239480c298f",
+      "sha256": "74c814ae5be11e91542b14c32de3e03f5e6e7f971943800521331303961cce2a",
       "version": "1.3",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     },
     "upcoming/1.0.9/privacy/en.md": {
-      "sha256": "fd7a2b7a7fc649150c8ef1ea975f3b080ab64098b495e9824a463aa28df6ba1e",
+      "sha256": "39f15379fd1415a1e6e9911b2e8f237dfbd88b9cd143814deaff97c556c5cb27",
       "version": "1.3",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     },
     "upcoming/1.0.9/terms/ko.md": {
-      "sha256": "a6d7139334e815e593d3dfa10c2f6169c1542f1735d3b285d774551b8af83668",
+      "sha256": "a99039c546f10990e060e516677d163c0558bea6da1ec5583a454122ba43c965",
       "version": "1.4",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     },
     "upcoming/1.0.9/terms/en.md": {
-      "sha256": "458147932f16662cb6de08ebf2cf2b2a42c25272a5a96640baf16370dd592ddc",
+      "sha256": "adcd4b156e38daec53923f754d9e5f2de15053aed01f2fa4c8a1c8b446f722e7",
       "version": "1.4",
-      "prepared_at": "2026-10-27T09:21:50+09:00",
-      "effective_at": "2026-11-03T18:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-27",
+      "status": "superseded"
     }
   }
 }

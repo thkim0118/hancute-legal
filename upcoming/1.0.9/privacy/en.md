@@ -5,6 +5,8 @@ lang: en
 release_target: 1.0.9
 ---
 
+> **Previous advance notice** — This page preserves the proposal published on October 27, 2026. The original planned date was November 3, 2026; the operator changed the effective date to `2026-10-27`. The following text is historical; see the current [Privacy Policy](https://thkim0118.github.io/hancute-legal/privacy/en) and [Terms](https://thkim0118.github.io/hancute-legal/terms/en).
+
 # Privacy Policy
 
 > **Public review proposal** — This proposal is not final and does not replace the current policy. Unverified matters remain identified for review; the content and planned effective time may change.
@@ -296,4 +298,4 @@ To exercise any of these rights, contact us at choir0118@gmail.com. In accordanc
 
 <!-- Sources checked 2026-10-26: https://firebase.google.com/docs/projects/manage-installations ; https://firebase.google.com/support/privacy ; https://support.google.com/analytics/answer/7667196 . Retention descriptions cover current and prior-version data. Actual Analytics property settings remain unverified. -->
 
-<!-- legal-content-sha256: fd7a2b7a7fc649150c8ef1ea975f3b080ab64098b495e9824a463aa28df6ba1e -->
+<!-- legal-content-sha256: 39f15379fd1415a1e6e9911b2e8f237dfbd88b9cd143814deaff97c556c5cb27 -->

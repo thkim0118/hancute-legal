@@ -5,6 +5,8 @@ lang: en
 release_target: 1.0.9
 ---
 
+> **Previous advance notice** — This page preserves the proposal published on October 27, 2026. The original planned date was November 3, 2026; the operator changed the effective date to `2026-10-27`. The following text is historical; see the current [Privacy Policy](https://thkim0118.github.io/hancute-legal/privacy/en) and [Terms](https://thkim0118.github.io/hancute-legal/terms/en).
+
 # Advance notice of revised Terms and Privacy Policy
 
 > **Public review proposal** — This proposal is not final and does not replace the current policy. Unverified matters remain identified for review; the content and planned effective time may change.
@@ -46,4 +48,4 @@ the operator contact listed in the current Privacy Policy.
 <!-- Review note: reconcile this summary with the final full revisions before finalization.
 Publishing a notice alone does not resolve outstanding collection, transfer, or deletion issues. -->
 
-<!-- legal-content-sha256: fe843a78494132bde7af3cc261d914611a14871de42695f021e5c80a62abb107 -->
+<!-- legal-content-sha256: 545f649ed66d110eaae43f97c3fe6ff0d492e710c718dde52deeca31a1a45421 -->

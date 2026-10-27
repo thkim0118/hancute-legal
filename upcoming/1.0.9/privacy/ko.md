@@ -5,6 +5,8 @@ lang: ko
 release_target: 1.0.9
 ---
 
+> **이전 사전 안내** — 이 페이지는 2026년 10월 27일에 공개된 당시 검토안의 이력입니다. 당시에는 2026년 11월 3일 시행 예정으로 안내했으나 운영자가 시행일을 `2026-10-27`로 변경했습니다. 아래 내용은 당시 기록이며 현재 문서는 [개인정보처리방침](https://thkim0118.github.io/hancute-legal/privacy/ko)과 [이용약관](https://thkim0118.github.io/hancute-legal/terms/ko)에서 확인하세요.
+
 # 개인정보처리방침
 
 > **사전 공개 검토안** — 이 문서는 최종 확정 전 의견 수렴용이며 현행 문서를 대체하지 않습니다. 확인되지 않은 항목은 확인 중으로 표시되어 있으며 내용과 시행 예정 시각은 변경될 수 있습니다.
@@ -299,4 +301,4 @@ Android ML Kit는 사진·검출 결과와 별도로 SDK 진단·성능·사용 
 
 <!-- Sources checked 2026-10-26: https://firebase.google.com/docs/projects/manage-installations ; https://firebase.google.com/support/privacy ; https://support.google.com/analytics/answer/7667196 . Retention descriptions cover current and prior-version data. Actual Analytics property settings remain unverified. -->
 
-<!-- legal-content-sha256: ea315aebda7a90d5213e7a296f918def2ed2b3010c1e67baf6be3239480c298f -->
+<!-- legal-content-sha256: 74c814ae5be11e91542b14c32de3e03f5e6e7f971943800521331303961cce2a -->
