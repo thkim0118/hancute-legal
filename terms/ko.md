@@ -4,6 +4,8 @@ title: 이용약관
 lang: ko
 ---
 
+> [개정안 사전 안내 보기](https://thkim0118.github.io/hancute-legal/upcoming/1.0.9/notice/ko)
+
 # 이용약관
 
 **시행일: 2026년 4월 8일**

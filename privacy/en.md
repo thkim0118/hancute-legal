@@ -4,6 +4,8 @@ title: Privacy Policy
 lang: en
 ---
 
+> [Read the proposed changes](https://thkim0118.github.io/hancute-legal/upcoming/1.0.9/notice/en)
+
 # Privacy Policy
 
 **Effective Date: March 29, 2026**

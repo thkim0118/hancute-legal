@@ -4,6 +4,8 @@ title: Terms of Service
 lang: en
 ---
 
+> [Read the proposed changes](https://thkim0118.github.io/hancute-legal/upcoming/1.0.9/notice/en)
+
 # Terms of Service
 
 **Effective Date: April 8, 2026**
