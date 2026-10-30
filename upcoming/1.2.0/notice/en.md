@@ -15,7 +15,7 @@ Hello, and thank you for using HanCutE.
 
 As we prepare HanCutE 1.2.0, we plan to update our Privacy Policy and Terms of Service:
 
-- New inquiries in 1.2.0 are being prepared for storage on an operator-managed server in the Republic of Korea, while earlier versions use the existing Supabase Cloud. Existing inquiries are not planned for migration as production data on the operator-managed server. The current policy’s individual retention and deletion rules will continue in Cloud, which is planned to be retired later. Retirement timing and handling of copies are under review.
+- New inquiries in 1.2.0 are being prepared for storage on an operator-managed server in the Republic of Korea, while earlier versions use the existing Supabase Cloud. Existing inquiries are not planned for migration as production data on the operator-managed server. The current policy’s individual retention and deletion rules will continue in Cloud. Remaining legacy Cloud data and all related copies, including backups and administrator notification emails, are planned for deletion on October 31, 2027; Cloud retirement timing and actual deletion procedures for each copy are under review.
 - After updating to 1.2.0, access in the app to details and replies for existing Cloud inquiries may be limited. Please use the contact address below for requests about previous inquiries.
 - We will clarify the default settings for usage analytics and error reporting and how to change them. A default setting or acknowledgement of a notice is not recorded as separate consent.
 - We will align the descriptions of face covering, image export resolution, and advertising with the features offered.
@@ -35,4 +35,4 @@ For questions or privacy rights requests, use the in-app inquiry form or contact
 
 The operator-managed server is located in the Republic of Korea, and encrypted inquiry-related backups are stored in Cloudflare R2. The R2 bucket is marked APAC, but the actual storage country is unconfirmed. No automatic deletion deadline for completed backups was found in the checked settings; the retention and deletion policy is under review. Relevant privacy disclosures will be finalized before processing changes.
 
-<!-- legal-content-sha256: 95302f29c84a08a9bed8f766f9e2dcb52bb5e0baec9d771366fe10e016d615b7 -->
+<!-- legal-content-sha256: 6ae3f96e25312ea00ee3f20e0afefac8223de092cb1db7b4c58dbec2e81221dc -->
