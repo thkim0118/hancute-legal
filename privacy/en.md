@@ -83,11 +83,11 @@ The App processes personal information for the following purposes:
 
 | Item | Proposed treatment and outstanding confirmation |
 |------|----------------------------------------------|
-| Inquiries, replies, follow-ups, attached images | The Operator has set a retention target of one year after resolution. Resolution tracking and a periodic deletion job were verified in the existing cloud environment; **TO CONFIRM:** implementation and execution after NAS migration, handling of 14 legacy records with unknown completion dates, and retention/deletion of email and backup copies |
-| Rate-limit IP logs | The existing cloud environment used periodic cleanup of records older than one hour. **TO CONFIRM:** the corresponding threshold and job execution on the NAS. Failures or downtime may delay cleanup |
+| Inquiries, replies, follow-ups, attached images | The Operator has set a retention target of one year after resolution. Resolution tracking and a periodic deletion job were verified in the existing cloud environment; **TO CONFIRM:** implementation and execution after operator-managed server migration, handling of 14 legacy records with unknown completion dates, and retention/deletion of email and backup copies |
+| Rate-limit IP logs | The existing cloud environment used periodic cleanup of records older than one hour. **TO CONFIRM:** the corresponding threshold and job execution on the operator-managed server. Failures or downtime may delay cleanup |
 | Firebase Analytics user/event data (current and previous versions) | Production property settings checked October 30, 2026: event data 2 months, user data 14 months, with reset on new user activity enabled. These settings do not apply equally to standard aggregated reports |
 | Firebase Crashlytics reports (current and previous versions) | Under Google policy, crash traces, extracted minidump data, and associated identifiers are retained for 90 days before removal from live and backup systems begins. This does not promise deletion of all copies on day 90 |
-| Inquiry-related NAS backups in R2 | No automatic deletion deadline for completed backups was found in the checked configuration. The seven-day lifecycle rule only aborts incomplete multipart uploads. Retention/deletion policy and request procedures require confirmation |
+| Inquiry-related server backups in R2 | No automatic deletion deadline for completed backups was found in the checked configuration. The seven-day lifecycle rule only aborts incomplete multipart uploads. Retention/deletion policy and request procedures require confirmation |
 | Administrator inquiry notification emails/logs | Confirm Resend plan/settings and separate retention/deletion for the receiving administrator mailbox |
 | Firebase installation IDs (Remote Config) | Google describes retention until an API deletion request and removal from live/backup systems within 180 days afterward. Operator deletion/request-identification procedures require confirmation |
 | Advertising, consent, ML Kit diagnostics | Confirm processing and retention under the applicable Google service policies |
@@ -103,13 +103,13 @@ The App does not, in principle, provide users' personal information to third par
 
 ## 5. Processing Environments and Service Providers
 
-The inquiry data is planned for migration to an Operator-managed environment. External providers are also used; the self-hosted environment is distinguished from outsourced processing. Actual roles and the post-migration scope require confirmation.
+Version 1.2.0 is configured to use self-hosted Supabase on an operator-managed server in the Republic of Korea; earlier versions use the existing Supabase Cloud. Existing cloud inquiries and attachments are intended to remain in Cloud and are not planned for migration as production data on the operator-managed server; new inquiries from 1.2.0 are planned for server storage. Individual retention and deletion under the current policy continue in Cloud, which is planned to be retired later. Retirement timing and handling of remaining copies are not yet determined. Handling of existing inquiry data copied to the operator-managed server during preparation and its R2 backups is under review. External providers are also used and the self-hosted environment is distinguished from outsourced processing. **VERIFY BEFORE RELEASE:** actual connections and operations, and each provider’s role and processing scope.
 
 | Environment or Provider | Task | Data Processed |
 |-----------|------|---------------|
-| Operator-managed self-hosted Supabase on NAS | Planned inquiry storage and management | Inquiries, replies, follow-ups, tokens, device info, attachments and rate-limit IP logs. **TO CONFIRM:** final migration and operational cutover |
-| Cloudflare R2 | Storage of encrypted inquiry-related NAS backups | Backed-up inquiries, replies, attachments and other related data. APAC is shown; actual country and transfer basis require confirmation |
-| Supabase Inc. (existing cloud environment) | Inquiry data processing before or during migration and retention | Inquiry-related information and attachments. **TO CONFIRM:** remaining copies, access and retirement timing |
+| Self-hosted Supabase on an operator-managed server | Inquiry storage and management | Inquiries, replies, follow-ups, tokens, device info, attachments and rate-limit IP logs. **VERIFY BEFORE RELEASE:** new-inquiry connection, operational status and handling of preparatory copies |
+| Cloudflare R2 | Storage of encrypted inquiry-related server backups | Backed-up inquiries, replies, attachments and other related data. APAC is shown; actual country and transfer basis require confirmation |
+| Supabase Inc. (existing cloud environment) | Inquiry processing for earlier versions and existing-data storage | Inquiry-related information and attachments. **TO CONFIRM:** retention period, copies, retirement timing and deletion procedures |
 | Google LLC (Firebase Analytics / Crashlytics) | Usage analysis and error/crash diagnosis | Event/diagnostic data, app/device information, SDK identifiers; verify actual settings |
 | Google LLC (Firebase Remote Config / Installations) | Update, maintenance, and app configuration | App version, device info, Firebase installation ID |
 | Google LLC (AdMob) | Ad serving | Advertising identifier, device info, ad interaction data |
@@ -120,12 +120,12 @@ The inquiry data is planned for migration to an Operator-managed environment. Ex
 
 ## 6. Overseas Data Transfer
 
-Starting with 1.2.0, the Operator plans to migrate the inquiry database and attachments to self-hosted Supabase on an Operator-managed NAS. The Operator confirmed that the NAS is physically located in the Republic of Korea. The R2 backup bucket is shown as Asia-Pacific (APAC), but its actual country is not confirmed and the location hint does not guarantee a storage location. **TO CONFIRM:** the completed migration date and treatment of remaining cloud copies. The existing production Supabase Cloud database and attachment region was verified as Japan (Tokyo, ap-northeast-1); how long cloud copies remain after migration is not yet confirmed. Provider support, logs, and subprocessors may involve other locations and must be assessed separately.
+Version 1.2.0 is configured to use self-hosted Supabase on an operator-managed server in the Republic of Korea; earlier versions use the existing Supabase Cloud. Existing cloud data is intended to remain in Cloud without migration as production data on the operator-managed server; new inquiries from 1.2.0 are planned for server storage. Individual deletion under the current policy continues, and Cloud is planned to be retired later. Retirement timing and the handling of preparatory copies and backups are not yet determined. **VERIFY BEFORE RELEASE:** actual access and processing in both environments. The R2 backup bucket is shown as Asia-Pacific (APAC), but its actual country is not confirmed and the location hint does not guarantee a storage location. **TO CONFIRM:** handling of server copies and R2 backups made during preparation and remaining cloud copies. The existing production Supabase Cloud database and attachment region was verified as Japan (Tokyo, ap-northeast-1); cloud retirement timing and handling of remaining copies are not yet confirmed. Provider support, logs, and subprocessors may involve other locations and must be assessed separately.
 
 | Recipient | Verified processing and outstanding confirmation |
 |-----------|-----------------------------------------------|
-| Cloudflare R2 | Encrypted NAS backups. The bucket is marked APAC, but its actual storage country is unconfirmed and the hint is not a location guarantee. Confirm processing countries, transfer basis, contact and deletion conditions |
-| Supabase Inc. (existing cloud environment) | Before migration, database and attachments: Japan (Tokyo). **TO CONFIRM:** remaining copies during and after migration, support/log/subprocessor locations, transfer basis and deletion conditions |
+| Cloudflare R2 | Encrypted server backups. The bucket is marked APAC, but its actual storage country is unconfirmed and the hint is not a location guarantee. Confirm processing countries, transfer basis, contact and deletion conditions |
+| Supabase Inc. (existing cloud environment) | Existing database and attachments: Japan (Tokyo). Earlier-version access and planned retirement after retaining existing data. **TO CONFIRM:** retirement timing, remaining copies, support/log/subprocessor locations, transfer basis and deletion conditions |
 | Google LLC | Firebase, AdMob, UMP, and Android ML Kit diagnostics. **UNDER REVIEW:** countries, data items, transfer timing/basis, and retention for each service |
 | Resend | Administrator inquiry notification delivery. **UNDER REVIEW:** storage/processing countries and retention under the actual contract and subprocessors |
 | Vercel Inc. | Inquiry administration server processing. **UNDER REVIEW:** production execution region, logging, subprocessor countries, and retention |
@@ -142,7 +142,7 @@ Inquiry tokens are transmitted in API requests, inquiry content/images on submis
 
 ### Procedure
 
-The operating target is to delete inquiries with recorded completion dates one year after resolution. The existing cloud job was configured to remove attachments before inquiries, replies and follow-ups and to retry failures. **TO CONFIRM:** the NAS job and actual execution, IP log cleanup, and procedures for unknown-date records, administrator emails, backups and unreferenced attachments.
+The operating target is to delete inquiries with recorded completion dates one year after resolution. The existing cloud job was configured to remove attachments before inquiries, replies and follow-ups and to retry failures. **TO CONFIRM:** the operator-managed server job and actual execution, IP log cleanup, and procedures for unknown-date records, administrator emails, backups and unreferenced attachments.
 
 ### Method
 
@@ -205,7 +205,7 @@ Usage analytics and error reporting can be changed separately in Settings. Initi
 The App takes the following measures to ensure the safety of personal information:
 
 1. **Encryption in transit**: HTTPS (TLS) is used between the App and server. **TO CONFIRM:** protection for each connection and backup transfer after migration.
-2. **Access control**: Access to the database and administration is restricted. **TO CONFIRM:** NAS row-level security, administrator/service-account permissions, and attachment access policies after migration.
+2. **Access control**: Access to the database and administration is restricted. **TO CONFIRM:** operator-managed server row-level security, administrator/service-account permissions, and attachment access policies after migration.
 3. **Data minimization**: Only the minimum information necessary for service provision is collected
 4. **Local image processing**: Photo merging, face-region detection, blur, and emoji compositing run on-device. Android uses Google ML Kit and iOS uses Apple Vision. The App does not create or store server-side facial identity/authentication data. Editing photos and detection results are not sent to the Operator's servers. Images voluntarily attached to inquiries or shared with another app are separate transfers.
 
@@ -305,9 +305,9 @@ To exercise any of these rights, contact us at choir0118@gmail.com. In accordanc
 
 ## Backup processing under review
 
-The NAS is located in the Republic of Korea. Encrypted inquiry-related backups have been stored in Cloudflare R2 during NAS preparation. The bucket is marked APAC, but this does not guarantee a specific country. No automatic deletion deadline for completed backups was found in the checked settings; the seven-day rule only aborts incomplete multipart uploads. Retention and deletion policy, processing countries, transfer grounds and processing relationships remain to be confirmed before operational cutover.
+The operator-managed server is located in the Republic of Korea. Encrypted inquiry-related backups have been stored in Cloudflare R2 during operator-managed server preparation. The bucket is marked APAC, but this does not guarantee a specific country. No automatic deletion deadline for completed backups was found in the checked settings; the seven-day rule only aborts incomplete multipart uploads. Retention and deletion policy, processing countries, transfer grounds and processing relationships remain to be confirmed before operational cutover.
 
-<!-- proposed-legal-content-sha256: d3a7c368870d12d056552c4b519d1defda327442d990039923f9e0a1ac59b808 -->
+<!-- proposed-legal-content-sha256: 9af334fa3fdc5938c8cfb28af9226131dc187c9835dcdfab99002a831862518e -->
 
 
 ---

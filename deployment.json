@@ -1,5 +1,5 @@
 {
-  "source_revision": "1e3e1908608e45abf157dc9f63f5be2a085bec24",
+  "source_revision": "df5cb1b3e067a8768d75481e40b99497a69daf1b",
   "documents": {
     "privacy/ko.md": {
       "sha256": "f38c7bf95de733b54c3d169e13cda503f36671c6dc5e98d61cc5101f7ff35fb9",
@@ -22,28 +22,28 @@
       "effective_date": "2026-10-27"
     },
     "upcoming/1.2.0/notice/ko.md": {
-      "sha256": "03e413d60963a0a133d0ce54da8458ad5c66f9d1ea1a791a21461ca0fbe8ac52",
+      "sha256": "be7b1e7bd699f55be613befa5faf4f8eb902472acc5efcddea11713b9d90be65",
       "version": "1.2.0",
       "prepared_at": "2026-10-30T16:00:05+09:00",
       "effective_at": "2026-11-08T00:00:00+09:00",
       "status": "review"
     },
     "upcoming/1.2.0/notice/en.md": {
-      "sha256": "06803df3a85094c3a408dc45bca38b2d9b4fd3b7e4cf22a661066c4a7fd32099",
+      "sha256": "10ec204117a6d375e7ebe0ad810e7e1c1b01fc8ad702272b253ab81088f85c78",
       "version": "1.2.0",
       "prepared_at": "2026-10-30T16:00:05+09:00",
       "effective_at": "2026-11-08T00:00:00+09:00",
       "status": "review"
     },
     "upcoming/1.2.0/privacy/ko.md": {
-      "sha256": "4bea19a5532d4826a0fc00a86fb246ab4ce7a51ced3e51ffda66fe81da690143",
+      "sha256": "507981d440a0bd869aeeb47f32f593fc937363bc4df1237c4ef65f9cf137e031",
       "version": "1.4",
       "prepared_at": "2026-10-30T16:00:05+09:00",
       "effective_at": "2026-11-08T00:00:00+09:00",
       "status": "review"
     },
     "upcoming/1.2.0/privacy/en.md": {
-      "sha256": "d3a7c368870d12d056552c4b519d1defda327442d990039923f9e0a1ac59b808",
+      "sha256": "9af334fa3fdc5938c8cfb28af9226131dc187c9835dcdfab99002a831862518e",
       "version": "1.4",
       "prepared_at": "2026-10-30T16:00:05+09:00",
       "effective_at": "2026-11-08T00:00:00+09:00",
