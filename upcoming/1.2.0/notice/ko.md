@@ -1,38 +1,25 @@
 ---
 layout: default
-title: 한컷에 개인정보처리방침 및 이용약관 변경 안내 — 검토안
+title: 한컷에 개인정보처리방침 및 이용약관 안내
 lang: ko
 ---
 
-# 개인정보처리방침 및 이용약관 변경 안내
+# 한컷에 개인정보처리방침 및 이용약관 안내
 
-> **사전 공개 검토안** — 아래 내용은 확정 전 안내이며 현행 문서를 대체하지 않습니다. 확인 중인 사항과 시행 시각은 변경될 수 있습니다.
+> **사전 공개 검토안** — 한컷에 1.2.0의 문서입니다.
 
-- 게시 준비 시각: `2026-10-30T16:00:05+09:00`
-- 시행 예정 시각: `2026-11-08T00:00:00+09:00`
+사진 편집, 문의, 광고, 개인정보 처리와 이용 조건을 안내합니다.
 
-안녕하세요. 한컷에를 이용해 주셔서 감사합니다.
+- 안내 준비일: `2026-10-31T13:03:36+09:00`
+- 시행 예정일: `2026-11-08T00:00:00+09:00`
 
-한컷에 1.2.0을 준비하면서 개인정보처리방침과 이용약관을 다음과 같이 변경할 예정입니다.
+- [개인정보처리방침 (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/ko)
+- [개인정보처리방침 (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/en)
+- [이용약관 (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/ko)
+- [이용약관 (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/en)
+- [현재 문서: 개인정보처리방침](https://thkim0118.github.io/hancute-legal/privacy/ko)
+- [현재 문서: 이용약관](https://thkim0118.github.io/hancute-legal/terms/ko)
 
-- 1.2.0의 신규 문의는 대한민국에 있는 운영자 관리 서버에 저장하도록 준비하며, 이전 버전은 기존 Supabase Cloud를 사용합니다. 기존 문의는 서버 운영 데이터로 이관하지 않고 Cloud에서 현행 방침의 문의별 파기 기준을 유지합니다. 남은 기존 Cloud 데이터와 관련 백업·관리자 알림 이메일 등 모든 관련 사본은 2027년 10월 31일 삭제할 계획이며, Cloud 종료 시점과 사본별 실제 삭제 절차는 확인 중입니다.
-- 1.2.0으로 업데이트하면 기존 Cloud 문의의 상세 내용과 답변을 앱에서 조회하는 데 제한이 있을 수 있습니다. 기존 문의 관련 요청은 아래 연락처로 문의해 주세요.
-- 앱 사용 분석과 오류 보고의 기본 설정과 설정에서 변경하는 방법을 명확히 설명합니다. 기본 설정이나 안내 확인을 별도 동의로 기록하지 않습니다.
-- 얼굴 가리기, 이미지 저장 해상도와 광고 관련 설명을 실제 기능에 맞게 정리합니다.
+문의 / Contact: [choir0118@gmail.com](mailto:choir0118@gmail.com)
 
-- 앱 1.2.0 출시 목표: **2026년 10월 31일** (심사 및 실제 공개 상황에 따라 변경 가능)
-- 사전 공지 게시일·시각: **2026년 10월 30일 16:14 KST까지 최초 공개 확인**
-- 약관 변경 시행 예정일·시각: **2026년 11월 8일 00:00 (한국 시간) 예정**
-- 현행 문서: [개인정보처리방침](https://thkim0118.github.io/hancute-legal/privacy/ko) · [이용약관](https://thkim0118.github.io/hancute-legal/terms/ko)
-- [개정 개인정보처리방침 (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/ko)
-- [개정 개인정보처리방침 (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/en)
-- [개정 이용약관 (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/ko)
-- [개정 이용약관 (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/en)
-
-서비스 이용을 위해 1.2.0 이상 업데이트가 필요하도록 안내할 계획입니다. 업데이트를 진행한다고 해서 별도 동의가 필요한 개인정보 처리에 대한 동의가 자동으로 이루어지는 것은 아닙니다. 운영체제·스토어 지원 여부와 실제 적용 시점은 출시 전에 확인합니다.
-
-변경 내용에 관한 문의 또는 개인정보 권리 행사는 앱 내 문의하기나 choir0118@gmail.com으로 연락해 주세요.
-
-운영자 관리 서버는 대한민국에 설치돼 있고, 문의 관련 암호화 백업은 Cloudflare R2에 보관합니다. R2 버킷에는 APAC이 표시되지만 실제 저장 국가는 확인되지 않았습니다. 완료된 백업의 자동 삭제 기한은 확인된 설정에 없으며, 보유·삭제 정책은 확인 중입니다. 실제 처리 변경에 앞서 개인정보 안내를 확정하겠습니다.
-
-<!-- legal-content-sha256: 9beecac3d87e3417d1e292cbb8c72eed70e80ad3b33e9fb36b85a3cae991a256 -->
+<!-- legal-content-sha256: 0eaaed03b599162b1e1bab44c93561c7fe536c64c20513b7307bc9b084722c5f -->
