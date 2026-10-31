@@ -1,25 +1,16 @@
 ---
 layout: default
-title: HanCutE Privacy Policy and Terms Update
+title: HanCutE document notice
 lang: en
 ---
 
-# HanCutE Privacy Policy and Terms Update
+# HanCutE document notice
 
-> **Public review proposal** — Documents for HanCutE 1.2.0.
+> **Previous advance notice** — The current documents are in effect.
 
-These documents describe photo editing, inquiries, advertising, privacy and the terms of use.
+2026-10-31
 
-- Prepared: `2026-10-31T13:03:36+09:00`
-- Proposed effective date: `2026-11-08T00:00:00+09:00`
+- [Privacy Policy](https://thkim0118.github.io/hancute-legal/privacy/en)
+- [Terms of Service](https://thkim0118.github.io/hancute-legal/terms/en)
 
-- [Privacy Policy (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/ko)
-- [Privacy Policy (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/privacy/en)
-- [Terms of Service (KO)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/ko)
-- [Terms of Service (EN)](https://thkim0118.github.io/hancute-legal/upcoming/1.2.0/terms/en)
-- [Current documents: Privacy Policy](https://thkim0118.github.io/hancute-legal/privacy/en)
-- [Current documents: Terms of Service](https://thkim0118.github.io/hancute-legal/terms/en)
-
-문의 / Contact: [choir0118@gmail.com](mailto:choir0118@gmail.com)
-
-<!-- legal-content-sha256: 45c443f3691bba26567e59fc85f2302108cf5c04f64a9ac9da7f57bc877bd4d7 -->
+<!-- legal-content-sha256: 1c20166bc339547b5bafb5bd9e642bc73448b1439dc58dcac6f55725071c9260 -->

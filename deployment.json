@@ -1,102 +1,60 @@
 {
-  "source_revision": "5b247f5c7ac2db6836a1a50fb24b10272cd20cd9",
+  "source_revision": "bc3c1d29fb8f9cb41e84f0fb80c566156e721c84",
   "documents": {
     "privacy/ko.md": {
-      "sha256": "f38c7bf95de733b54c3d169e13cda503f36671c6dc5e98d61cc5101f7ff35fb9",
-      "version": "1.3",
-      "effective_date": "2026-10-27"
+      "sha256": "27f774cbf22a973fb40aca03e95bcf2c9577cf31a77e7195af51e2d342ce2669",
+      "version": "1.4",
+      "effective_date": "2026-10-31"
     },
     "privacy/en.md": {
-      "sha256": "7524df310387f7736267c2a70adbbd518177983a22b26fca1bf7084336721540",
-      "version": "1.3",
-      "effective_date": "2026-10-27"
+      "sha256": "b586e156def98f5df6c946e7907a445e0e662bace65bb6effa77c1f751043d6b",
+      "version": "1.4",
+      "effective_date": "2026-10-31"
     },
     "terms/ko.md": {
-      "sha256": "60a2e1b74cb73c2da1896fac0adf20bf8e1014d06d425aa29d95c8f203f61927",
-      "version": "1.4",
-      "effective_date": "2026-10-27"
+      "sha256": "dcf8553a10a195d2f24570adaf8a31443a896e49f702672aa688c355804359b8",
+      "version": "1.5",
+      "effective_date": "2026-10-31"
     },
     "terms/en.md": {
-      "sha256": "79496dced766bb81ea20a0fbda83be0bc643cae45dba03d7ae26610ec4218a33",
-      "version": "1.4",
-      "effective_date": "2026-10-27"
+      "sha256": "fbdb5b083f19e95d259904ab560c62610bda25c5403646337c76b17c3364fc59",
+      "version": "1.5",
+      "effective_date": "2026-10-31"
     },
     "upcoming/1.2.0/notice/ko.md": {
-      "sha256": "0eaaed03b599162b1e1bab44c93561c7fe536c64c20513b7307bc9b084722c5f",
+      "sha256": "1f8df5b0443bcc6d4155639bdf0675d14bb0a457ad20f9a7146772f632bab1b6",
       "version": "1.2.0",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-31",
+      "status": "superseded"
     },
     "upcoming/1.2.0/notice/en.md": {
-      "sha256": "45c443f3691bba26567e59fc85f2302108cf5c04f64a9ac9da7f57bc877bd4d7",
+      "sha256": "1c20166bc339547b5bafb5bd9e642bc73448b1439dc58dcac6f55725071c9260",
       "version": "1.2.0",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-31",
+      "status": "superseded"
     },
     "upcoming/1.2.0/privacy/ko.md": {
-      "sha256": "2519ac5b68e95ac65b187e070011ca2d03c46c10c6af420c372a6ab74cb5f65d",
+      "sha256": "1f8df5b0443bcc6d4155639bdf0675d14bb0a457ad20f9a7146772f632bab1b6",
       "version": "1.4",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-31",
+      "status": "superseded"
     },
     "upcoming/1.2.0/privacy/en.md": {
-      "sha256": "a51a23faad121755870550663400cc86b643fafda7377d3444520044f0aa3e60",
+      "sha256": "1c20166bc339547b5bafb5bd9e642bc73448b1439dc58dcac6f55725071c9260",
       "version": "1.4",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-31",
+      "status": "superseded"
     },
     "upcoming/1.2.0/terms/ko.md": {
-      "sha256": "af26dac7a0083013d05bdd183fcfa0a60b8b3185b75f01cb4d82839093a3b268",
+      "sha256": "1f8df5b0443bcc6d4155639bdf0675d14bb0a457ad20f9a7146772f632bab1b6",
       "version": "1.5",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
+      "effective_date": "2026-10-31",
+      "status": "superseded"
     },
     "upcoming/1.2.0/terms/en.md": {
-      "sha256": "e31036efc021057e7f5ba0edc07b50ada31d35b96ad2a9c01f8c9937ae7e4ebf",
+      "sha256": "1c20166bc339547b5bafb5bd9e642bc73448b1439dc58dcac6f55725071c9260",
       "version": "1.5",
-      "prepared_at": "2026-10-31T13:03:36+09:00",
-      "effective_at": "2026-11-08T00:00:00+09:00",
-      "status": "review"
-    },
-    "upcoming/1.0.9/notice/ko.md": {
-      "sha256": "4a193f20bed1ddab4716de6045ebcd192cbefa7e7e688969173a2750a52f2870",
-      "version": "1.0.9",
-      "effective_date": "2026-10-27",
-      "status": "superseded"
-    },
-    "upcoming/1.0.9/notice/en.md": {
-      "sha256": "545f649ed66d110eaae43f97c3fe6ff0d492e710c718dde52deeca31a1a45421",
-      "version": "1.0.9",
-      "effective_date": "2026-10-27",
-      "status": "superseded"
-    },
-    "upcoming/1.0.9/privacy/ko.md": {
-      "sha256": "74c814ae5be11e91542b14c32de3e03f5e6e7f971943800521331303961cce2a",
-      "version": "1.3",
-      "effective_date": "2026-10-27",
-      "status": "superseded"
-    },
-    "upcoming/1.0.9/privacy/en.md": {
-      "sha256": "39f15379fd1415a1e6e9911b2e8f237dfbd88b9cd143814deaff97c556c5cb27",
-      "version": "1.3",
-      "effective_date": "2026-10-27",
-      "status": "superseded"
-    },
-    "upcoming/1.0.9/terms/ko.md": {
-      "sha256": "a99039c546f10990e060e516677d163c0558bea6da1ec5583a454122ba43c965",
-      "version": "1.4",
-      "effective_date": "2026-10-27",
-      "status": "superseded"
-    },
-    "upcoming/1.0.9/terms/en.md": {
-      "sha256": "adcd4b156e38daec53923f754d9e5f2de15053aed01f2fa4c8a1c8b446f722e7",
-      "version": "1.4",
-      "effective_date": "2026-10-27",
+      "effective_date": "2026-10-31",
       "status": "superseded"
     }
   }
